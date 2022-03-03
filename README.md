@@ -2,7 +2,7 @@
 Business problem: The goal of this project is to predictloan interest rate by using training and testing dataset
 
 ## Data Processing:
-I encoded categorical variable, handle missing values.
+I encoded categorical variables, handle missing values.
  
 ## Feature engineering:
 I dropped unnecessnary columns, recategorized certain columns, and resolved mismatch issue between training and testing datasets. 
